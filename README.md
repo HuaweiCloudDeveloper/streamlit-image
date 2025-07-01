@@ -25,7 +25,7 @@
 
 **‌Open Source and Free:** Join an active community to shape the future of Streamlit together.
 
-The open-source image product [**Streamlit Data Science Application Tool**](https://marketplace.huaweicloud.com/hidden/contents/859b57e8-a9dd-431f-a724-da999b0553ea#productid=OFFI1121279984920113152) provided by this project has the Streamlit version 1.40.1 and its related runtime environment pre-installed, and also provides a deployment template. Refer to the usage guide and start your efficient "out-of-the-box" experience now!
+The open-source image product [**Streamlit Data Science Application Tool**](https://marketplace.huaweicloud.com/contents/859b57e8-a9dd-431f-a724-da999b0553ea#productid=OFFI1121279984920113152) provided by this project has the Streamlit version 1.40.1 and its related runtime environment pre-installed, and also provides a deployment template. Refer to the usage guide and start your efficient "out-of-the-box" experience now!
 
 > **System requirements are as follows:**
 > - CPU: 2vCPUs or higher
@@ -37,9 +37,9 @@ The open-source image product [**Streamlit Data Science Application Tool**](http
 
 ## Image Description
 
-| Image Specification                                                                                                       | Feature Description | Remarks |
-|------------------------------------------------------------------------------------------------------------| --- | --- |
-| [Streamlit1.40.1-arm-v1](https://github.com/HuaweiCloudDeveloper/streamlit-image/tree/Streamlit1.40.1-arm-v1) | Installed and deployed based on Kunpeng servers + Huawei Cloud EulerOS 2.0 64-bit |  |
+| Image Specification                                                                                             | Feature Description | Remarks |
+|-----------------------------------------------------------------------------------------------------------------| --- | --- |
+| [Streamlit-1.40.1-kunpeng](https://github.com/HuaweiCloudDeveloper/streamlit-image/tree/Streamlit-1.40.1-kunpeng) | Installed and deployed based on Kunpeng servers + Huawei Cloud EulerOS 2.0 64-bit |  |
 
 ## Get Help
 - For more questions, you can contact us via [issues](https://github.com/HuaweiCloudDeveloper/streamlit-image/issues) or the service support of the specified product in the Huawei Cloud Marketplace.

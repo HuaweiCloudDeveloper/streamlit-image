@@ -26,7 +26,7 @@
 
 **‌开源且免费：** 加入活跃的社区，共同塑造 Streamlit 的未来。
 
-本项目提供的开源镜像商品 [**Streamlit数据科学应用工具**](https://marketplace.huaweicloud.com/hidden/contents/859b57e8-a9dd-431f-a724-da999b0553ea#productid=OFFI1121279984920113152) 已预先安装1.40.1版本的Streamlit及其相关运行环境，并提供部署模板。快来参照使用指南，轻松开启“开箱即用”的高效体验吧。
+本项目提供的开源镜像商品 [**Streamlit数据科学应用工具**](https://marketplace.huaweicloud.com/contents/859b57e8-a9dd-431f-a724-da999b0553ea#productid=OFFI1121279984920113152) 已预先安装1.40.1版本的Streamlit及其相关运行环境，并提供部署模板。快来参照使用指南，轻松开启“开箱即用”的高效体验吧。
 
 
 > **系统要求如下：**
@@ -41,7 +41,7 @@
 
 | 镜像规格                                                                                                       | 特性说明 | 备注 |
 |------------------------------------------------------------------------------------------------------------| --- | --- |
-| [Streamlit1.40.1-arm-v1](https://github.com/HuaweiCloudDeveloper/streamlit-image/tree/Streamlit1.40.1-arm-v1) | 基于鲲鹏服务器 + Huawei Cloud EulerOS 2.0 64bit 安装部署 |  |
+| [Streamlit-1.40.1-kunpeng](https://github.com/HuaweiCloudDeveloper/streamlit-image/tree/Streamlit-1.40.1-kunpeng) | 基于鲲鹏服务器 + Huawei Cloud EulerOS 2.0 64bit 安装部署 |  |
 
 ## 获取帮助
 - 更多问题可通过 [issue](https://github.com/HuaweiCloudDeveloper/streamlit-image/issues) 或 华为云云商店指定商品的服务支持 与我们取得联系
