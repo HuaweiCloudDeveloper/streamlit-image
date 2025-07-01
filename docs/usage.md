@@ -1,15 +1,16 @@
-# Zeppelin数据分析工具使用指南
+# Streamlit数据科学应用工具使用指南
 
 # 一、商品链接
 
-[Zeppelin数据分析工具](https://marketplace.huaweicloud.com/hidden/contents/253a2dc0-df54-4f08-93bb-51eaeff7097e#productid=OFFI1121280108350484480)
+[Streamlit数据科学应用工具](https://marketplace.huaweicloud.com/contents/859b57e8-a9dd-431f-a724-da999b0553ea#productid=OFFI1121279984920113152)
 
 # 二、商品说明
 
-Zeppelin是一款开源的交互式数据分析工具，基于 Web 界面，支持多种编程语言（如 Scala、Python、SQL 等），常用于大数据处理和可视化。
+Streamlit是一个用于创建数据应用和机器学习模型界面的开源 Python 库。它允许开发者快速构建交互式Web应用，而无需深入了解前端开发技术。
+
 # 三、商品购买
 
-您可以在云商店搜索 **Zeppelin数据分析工具**。
+您可以在云商店搜索 **Streamlit数据科学应用工具**。
 
 其中，地域、规格、推荐配置使用默认，购买方式根据您的需求选择按需/按月/按年，短期使用推荐按需，长期使用推荐按月/按年，确认配置后点击“立即购买”。
 
